@@ -38,7 +38,7 @@ class LoginScreen extends StatelessWidget {
             TextField(
               obscureText: true,
               decoration: InputDecoration(
-                labelText: 'password',
+                labelText: 'Password',
                 border: OutlineInputBorder(),
               ),
             ),
